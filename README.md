@@ -1,8 +1,7 @@
-# Gurveender Jeet Kaur — Portfolio (PM × QA × Full-Stack)
+# Gurveender Jeet Kaur — Portfolio (PM × QA)
 
 A modern, high-performance portfolio website engineered for **Gurveender Jeet Kaur** (Software Engineering @ Universitas Gadjah Mada), bridging **Product Management**, **Quality Assurance**, and **Full-Stack Engineering**.
 
-Inspired by the structured technical credibility of [aminhamzah.com](https://aminhamzah.com) and the refined minimalism of Linear and Vercel.
 
 ---
 
